@@ -210,7 +210,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - shitlime
 
 env:
   TZ: America/New_York
